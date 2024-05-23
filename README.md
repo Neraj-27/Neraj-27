@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! I'm Neraj</h1>
+<h1 align="left">Hello!! I'm Neraj</h1>
 
 ## 👨🏻‍💻 About Me
 - Passionate about new tech trends, dedicated to software development, and always working on something exciting.
@@ -56,12 +56,5 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
     </a>
   </p>
-- **Design**:
-  <p align="left">
-  </p>
-
 ## 🤝🏻 Connect with Me
-- 📧 Email: [nerajaksha27rajuna@gmail.com](mailto:nerajaksha27rajuna@gmail.com)
-
-</body>
-</html>
+- 📧 Email: (mailto:nerajaksha27rajuna@gmail.com)
