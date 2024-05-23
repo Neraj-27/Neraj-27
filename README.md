@@ -1,5 +1,3 @@
-<h1 align="left">Hello!! I'm Neraj</h1>
-
 ## 👨🏻‍💻 About Me
 - Passionate about new tech trends, dedicated to software development, and always working on something exciting.
 - 🎓 Presently studying Computer Science Engineering at NMAM Institute of Technology.
