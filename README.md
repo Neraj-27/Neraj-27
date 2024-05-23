@@ -9,11 +9,11 @@
 
 ### Programming Languages
 <p align="left">
-  <kbd>C</kbd>
-  <kbd>C++</kbd>
-  <kbd>Python</kbd>
-  <kbd>Java</kbd>
-  <kbd>R (Statistics)</kbd>
+  <kbd>C</kbd> C
+  <kbd>C++</kbd> C++
+  <kbd>Python</kbd> Python
+  <kbd>Java</kbd> Java
+  <kbd>R</kbd> R (Statistics)
 </p>
 
 ### Web Development
