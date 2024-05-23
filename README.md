@@ -1,46 +1,30 @@
-<h1 align="center">Hello!! I'm Neraj</h1>
-
-## 👨🏻‍💻 About Me
-- Passionate about new tech trends, dedicated to software development, and always working on something exciting.
-- 🎓 Presently studying Computer Science Engineering at NMAM Institute of Technology.
-- 🌱 Currently learning and working on Deep Learning.
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
 <p align="left">
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"/> <span style="font-size: 20px;">C</span></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> <span style="font-size: 20px;">C++</span></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> <span style="font-size: 20px;">Python</span></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> <span style="font-size: 20px;">Java</span></kbd>
-  <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="20" height="20"/> <span style="font-size: 20px;">R (Statistics)</span></kbd>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <span style="font-size: 40px;">C</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <span style="font-size: 40px;">C++</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span style="font-size: 40px;">Python</span>
 </p>
-
 
 ### Web Development
 <p align="left">
-  <!-- Add web development tech stack items here if needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <span style="font-size: 40px;">HTML5</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <span style="font-size: 40px;">CSS3</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <span style="font-size: 40px;">JavaScript</span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> <span style="font-size: 40px;">Bootstrap</span>
 </p>
 
 ### Databases
 <p align="left">
-  <!-- Add database tech stack items here if needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <span style="font-size: 40px;">MySQL</span>
 </p>
 
 ### Tools
 <p align="left">
-  <!-- Add tools tech stack items here if needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> <span style="font-size: 40px;">GitHub</span>
 </p>
 
 ### IDEs
 <p align="left">
-  <!-- Add IDEs tech stack items here if needed -->
-</p>
-
-### Design
-<p align="left">
-  <!-- Add design tech stack items here if needed -->
-</p>
-
-## 🤝🏻 Connect with Me
-- 📧 Email: [nerajaksha27rajuna@gmail.com](mailto:nerajaksha27rajuna@gmail.com)
+  <img src="https://raw.githubusercon
