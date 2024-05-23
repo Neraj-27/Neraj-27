@@ -1,5 +1,6 @@
 <h1 align="left">Hello!! I'm Neraj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neraj-27&label=Profile%20views&color=0e75b6&style=flat" alt="neraj-27" /> </p>
+
 ## 👨🏻‍💻 About Me
 - Passionate about new tech trends, dedicated to software development, and always working on something exciting.
 - 🎓 Presently studying Computer Science Engineering at NMAM Institute of Technology.
@@ -57,4 +58,4 @@
     </a>
   </p>
 ## 🤝🏻 Connect with Me
-- 📧 Email: (mailto:nerajaksha27rajuna@gmail.com)
+- 📧 Email: [nerajaksha27rajuna@gmail.com](mailto:nerajaksha27rajuna@gmail.com)
