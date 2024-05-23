@@ -1,7 +1,7 @@
-<h1 align="center">Hello!! I'm Neraj</h1>
+<h1 align="left">Hello!! I'm Nerajaksharaju N A</h1>
 
 ## 👨🏻‍💻 About Me
-- <h3 align="center">"Passionate about new tech trends, dedicated to software development, and always working on something exciting.</h3>
+- Passionate about new tech trends, dedicated to software development, and always working on something exciting.
 - 🎓 Presently studying Computer Science Engineering at NMAM Institute of Technology.
 - 🌱 Currenty learing and working on Deep Learning.
 
