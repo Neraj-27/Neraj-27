@@ -1,12 +1,12 @@
-<h1 align="left">Hello!! I'm Neraj</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neraj-27&label=Profile%20views&color=0e75b6&style=flat" alt="neraj-27" /> </p>
-
+<h1 align="left">Hi 👋, I'm Neraj</h1>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=neraj-27&label=Profile%20views&color=0e75b6&style=flat" alt="neraj-27" /> </p>
+ -->
 ## 👨🏻‍💻 About Me
 - Passionate about new tech trends, dedicated to software development, and always working on something exciting.
 - 🎓 Presently studying Computer Science Engineering at NMAM Institute of Technology.
 - 🌱 Currently learning and working on Deep Learning.
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 - **Programming Languages**:
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
